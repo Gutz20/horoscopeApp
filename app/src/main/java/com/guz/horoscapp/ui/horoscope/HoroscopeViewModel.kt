@@ -21,5 +21,4 @@ class HoroscopeViewModel @Inject constructor(horoscopeProvider: HoroscopeProvide
     }
 
 
-
 }
